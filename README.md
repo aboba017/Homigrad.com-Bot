@@ -17,8 +17,8 @@ First you need Node.Js service on your computer or server and
 2.Open your `cmd` or `terminal (if you use linux)`
 
 3.In cmd type this command to install module and other files
-  + `npm init -y`
-  + `npm install discord.js rcon-client`
+  * `npm init -y`
+  * `npm install discord.js rcon-client`
 
 
 
