@@ -19,8 +19,29 @@ First you need Node.Js service on your computer or server and
 3.In cmd type this command to install module and other files
   * `npm init -y`
   * `npm install discord.js rcon-client`
+  
+4. Configure `config.cjs` File and put **Discord bot token** and **Server and port*
 
+```nodejs
+// config.cjs
+module.exports = {
+  discordToken:
+    "youtoken",
+  discordChannelId: "discord channel to relay messages", // iscord channel to relay messages
+  discordStatusChannelId: "channel status of server", // channel status of server
+  rcon: {
+    host: "188.127.241.201", //ip of server
+    port: 28118, // port
+    password: "463719", // rcon password check in server.cfg
+  },
+  // options:
+  prefix: "{Discord}", // dont touch
+  relayBots: false, // dont touch
+  ignoreCommandsStartingWith: "!", // dont touch
+};
 
+```
+ 
 
 
 
