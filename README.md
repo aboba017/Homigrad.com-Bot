@@ -40,7 +40,27 @@ module.exports = {
 };
 
 ```
- 
+
+5.If you completed all steps you need type this command in cmd or terminal `node index.js`
+
+### Installing lua files on server
+Put `cl_gm_discordrelay` and `sv_gm_discordrelay`files on this directory
+
++cl_gm_discordrelay
+ +garrysmod
+  +lua
+   +autorun
+    +client
+
++sv_gm_discordrelay
+ +garrysmod
+  +lua
+   +autorun
+    +server
+
+**Boom you install my bot in server!**
+
+
 
 
 
