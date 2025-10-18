@@ -63,9 +63,9 @@ sv_gm_discordrelay
 Thanks for using my bot its my fist work in source engine
 
 **Links on my servers and other servers**
-[V-city]https://discord.gg/yZtaARupc7
-[NEHOMIGRAD]https://discord.gg/azTD3ECu38
-[HOMIFORK]https://discord.gg/vMuyWrY967
+[V-city](https://discord.gg/yZtaARupc7)
+[NEHOMIGRAD](https://discord.gg/azTD3ECu38)
+[HOMIFORK](https://discord.gg/vMuyWrY967)
 
 
 
