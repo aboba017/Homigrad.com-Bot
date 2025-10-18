@@ -11,7 +11,7 @@ Bot frrom HOMIGRAD.COM Server in garrys mod created by me
 ![Preview](https://cdn.discordapp.com/attachments/1419203577804619950/1429185820882898964/Medal_XBuwTIPGwS.png?ex=68f53884&is=68f3e704&hm=fdbb7c93a3d7afee787f591619662f63a81529b0e3bcb851e8059f0c43e44789&)
 ### How install this bot?
 First you need Node.Js service on your computer or server and
----
+--
 1.Download all repository files and put everywhere where you can put
 
 2.Open your `cmd` or `terminal (if you use linux)`
