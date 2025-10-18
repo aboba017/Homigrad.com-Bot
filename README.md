@@ -46,13 +46,13 @@ module.exports = {
 ### Installing lua files on server
 Put `cl_gm_discordrelay` and `sv_gm_discordrelay`files on this directory
 
-+cl_gm_discordrelay
+cl_gm_discordrelay
  +garrysmod
   +lua
    +autorun
     +client
 
-+sv_gm_discordrelay
+sv_gm_discordrelay
  +garrysmod
   +lua
    +autorun
@@ -60,6 +60,12 @@ Put `cl_gm_discordrelay` and `sv_gm_discordrelay`files on this directory
 
 **Boom you install my bot in server!**
 
+Thanks for using my bot its my fist work in source engine
+
+**Links on my servers and other servers**
+[V-city]https://discord.gg/yZtaARupc7
+[NEHOMIGRAD]https://discord.gg/azTD3ECu38
+[HOMIFORK]https://discord.gg/vMuyWrY967
 
 
 
