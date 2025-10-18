@@ -58,7 +58,7 @@ sv_gm_discordrelay
    +autorun
     +server
 
-###Boom you install my bot in server!
+### Boom you install my bot in server!
 
 
 Thanks for using my bot its my fist work in source engine
