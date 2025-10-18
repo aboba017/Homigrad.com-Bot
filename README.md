@@ -20,9 +20,9 @@ First you need Node.Js service on your computer or server and
   * `npm init -y`
   * `npm install discord.js rcon-client`
   
-4. Configure `config.cjs` File and put **Discord bot token** and **Server and port*
+4. Configure `config.cjs` File and put **Discord bot token** and **Server and port**
 
-```nodejs
+```node.js
 // config.cjs
 module.exports = {
   discordToken:
