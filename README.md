@@ -23,7 +23,6 @@ First you need Node.Js service on your computer or server and
 4. Configure `config.cjs` File and put **Discord bot token** and **Server and port**
 
 ```node.js
-// config.cjs
 module.exports = {
   discordToken:
     "youtoken",
