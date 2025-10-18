@@ -13,8 +13,12 @@ Bot frrom HOMIGRAD.COM Server in garrys mod created by me
 First you need Node.Js service on your computer or server and
 
 1.Download all repository files and put everywhere where you can put
+
 2.Open your `cmd` or `terminal (if you use linux)`
-3.In cmd type this command to install module 
+
+3.In cmd type this command to install module and other files
+  + npm init -y
+  + npm install discord.js rcon-client
 
 
 
