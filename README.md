@@ -1,5 +1,6 @@
 # Homigrad.com-Bot
 Bot frrom HOMIGRAD.COM Server in garrys mod created by me
+(напоминаю этот бот сделан полностью через гпт, я делаю более лучший вариант уже своими руками и знаниями я не сильно хорошо шарю в js но попробую сделать этого бота иными путями)
 ## What this bot can do?
 + Can make status of server
 + Can send messages to the server that were written in the channel
